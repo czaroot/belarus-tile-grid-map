@@ -1,0 +1,1034 @@
+[
+    {
+        "x": "5",
+        "y": "11",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Baranavicki",
+        "code": "BRN"
+    },
+    {
+        "x": "2",
+        "y": "14",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Bieraściejski",
+        "code": "BRŚ"
+    },
+    {
+        "x": "4",
+        "y": "13",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Biarozaŭski",
+        "code": "BIA"
+    },
+    {
+        "x": "6",
+        "y": "12",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Hancavicki",
+        "code": "HNC"
+    },
+    {
+        "x": "4",
+        "y": "14",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Darahičynski",
+        "code": "DRH"
+    },
+    {
+        "x": "3",
+        "y": "13",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Žabinkaŭski",
+        "code": "ŽBN"
+    },
+    {
+        "x": "5",
+        "y": "13",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Janaŭski",
+        "code": "JAN"
+    },
+    {
+        "x": "5",
+        "y": "12",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Ivacevicki",
+        "code": "IVC"
+    },
+    {
+        "x": "2",
+        "y": "13",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Kamianiecki",
+        "code": "KMN"
+    },
+    {
+        "x": "3",
+        "y": "14",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Kobrynski",
+        "code": "KBR"
+    },
+    {
+        "x": "7",
+        "y": "12",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Łuniniecki",
+        "code": "ŁNN"
+    },
+    {
+        "x": "6",
+        "y": "11",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Lachavicki",
+        "code": "LCH"
+    },
+    {
+        "x": "2",
+        "y": "15",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Małarycki",
+        "code": "MŁR"
+    },
+    {
+        "x": "6",
+        "y": "13",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Pinski",
+        "code": "PNS"
+    },
+    {
+        "x": "3",
+        "y": "12",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Pružanski",
+        "code": "PRŽ"
+    },
+    {
+        "x": "7",
+        "y": "13",
+        "type": "district",
+        "region": "Bieraściejskaja",
+        "name": "Stolinski",
+        "code": "STL"
+    },
+    {
+        "x": "12",
+        "y": "7",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Aršanski",
+        "code": "VRŠ"
+    },
+    {
+        "x": "10",
+        "y": "5",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Biešankovicki",
+        "code": "BŠN"
+    },
+    {
+        "x": "7",
+        "y": "4",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Brasłaŭski",
+        "code": "BRA"
+    },
+    {
+        "x": "8",
+        "y": "3",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Drysienski",
+        "code": "DRS"
+    },
+    {
+        "x": "11",
+        "y": "5",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Viciebski",
+        "code": "VCB"
+    },
+    {
+        "x": "11",
+        "y": "4",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Haradocki",
+        "code": "HRD"
+    },
+    {
+        "x": "8",
+        "y": "5",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Hłybocki",
+        "code": "HŁB"
+    },
+    {
+        "x": "8",
+        "y": "6",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Dokšycki",
+        "code": "DKŠ"
+    },
+    {
+        "x": "13",
+        "y": "7",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Dubrovienski",
+        "code": "DUB"
+    },
+    {
+        "x": "12",
+        "y": "6",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Loznienski",
+        "code": "LZN"
+    },
+    {
+        "x": "9",
+        "y": "6",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Lepielski",
+        "code": "LPL"
+    },
+    {
+        "x": "8",
+        "y": "4",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Miorski",
+        "code": "MIO"
+    },
+    {
+        "x": "6",
+        "y": "5",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Pastaŭski",
+        "code": "PST"
+    },
+    {
+        "x": "9",
+        "y": "4",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Połacki",
+        "code": "PŁT"
+    },
+    {
+        "x": "9",
+        "y": "3",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Rasonski",
+        "code": "RSN"
+    },
+    {
+        "x": "11",
+        "y": "6",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Sieńnienski",
+        "code": "SNN"
+    },
+    {
+        "x": "11",
+        "y": "7",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Tałačynski",
+        "code": "TŁČ"
+    },
+    {
+        "x": "9",
+        "y": "5",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Ušacki",
+        "code": "UŠČ"
+    },
+    {
+        "x": "10",
+        "y": "6",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Čašnicki",
+        "code": "ČŠN"
+    },
+    {
+        "x": "7",
+        "y": "5",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Šarkoŭščynski",
+        "code": "ŠRK"
+    },
+    {
+        "x": "10",
+        "y": "4",
+        "type": "district",
+        "region": "Viciebskaja",
+        "name": "Šumilinski",
+        "code": "ŠML"
+    },
+    {
+        "x": "9",
+        "y": "12",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Rudabielski",
+        "code": "RDB"
+    },
+    {
+        "x": "11",
+        "y": "15",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Brahinski",
+        "code": "BRH"
+    },
+    {
+        "x": "12",
+        "y": "13",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Buda-Kašaloŭski",
+        "code": "BDK"
+    },
+    {
+        "x": "13",
+        "y": "13",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Vietkaŭski",
+        "code": "VTK"
+    },
+    {
+        "x": "12",
+        "y": "14",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Homielski",
+        "code": "HML"
+    },
+    {
+        "x": "13",
+        "y": "14",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Dobruski",
+        "code": "DBR"
+    },
+    {
+        "x": "9",
+        "y": "15",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Jelsk",
+        "code": "JEL"
+    },
+    {
+        "x": "11",
+        "y": "12",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Žłobinski",
+        "code": "ŽLB"
+    },
+    {
+        "x": "8",
+        "y": "12",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Žytkavicki",
+        "code": "ŽTK"
+    },
+    {
+        "x": "10",
+        "y": "13",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Kalenkavicki",
+        "code": "KLN"
+    },
+    {
+        "x": "12",
+        "y": "12",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Karmjanski",
+        "code": "KRM"
+    },
+    {
+        "x": "8",
+        "y": "13",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Lelčycki",
+        "code": "LLČ"
+    },
+    {
+        "x": "11",
+        "y": "14",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Łojeŭski",
+        "code": "ŁOJ"
+    },
+    {
+        "x": "9",
+        "y": "14",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Mazyrski",
+        "code": "MZR"
+    },
+    {
+        "x": "10",
+        "y": "15",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Naraŭlanski",
+        "code": "NRL"
+    },
+    {
+        "x": "9",
+        "y": "13",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Pietrykaŭski",
+        "code": "PTR"
+    },
+    {
+        "x": "12",
+        "y": "11",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Rahačoŭski",
+        "code": "RHČ"
+    },
+    {
+        "x": "11",
+        "y": "13",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Rečycki",
+        "code": "RČC"
+    },
+    {
+        "x": "10",
+        "y": "12",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Šaciłavicki",
+        "code": "ŠCŁ"
+    },
+    {
+        "x": "10",
+        "y": "14",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Chvojnicki",
+        "code": "CHV"
+    },
+    {
+        "x": "13",
+        "y": "12",
+        "type": "district",
+        "region": "Homielskaja",
+        "name": "Čačerski",
+        "code": "ČČR"
+    },
+    {
+        "x": "5",
+        "y": "6",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Astraviecki",
+        "code": "AST"
+    },
+    {
+        "x": "5",
+        "y": "7",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Ašmianski",
+        "code": "AŠM"
+    },
+    {
+        "x": "2",
+        "y": "10",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Bierastavicki",
+        "code": "BIE"
+    },
+    {
+        "x": "3",
+        "y": "11",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Vaŭkavyski",
+        "code": "VKV"
+    },
+    {
+        "x": "4",
+        "y": "8",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Viarenaŭski",
+        "code": "VRN"
+    },
+    {
+        "x": "2",
+        "y": "9",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Haradzienski",
+        "code": "HOR"
+    },
+    {
+        "x": "4",
+        "y": "10",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Ździeciełski",
+        "code": "ŹDZ"
+    },
+    {
+        "x": "4",
+        "y": "11",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Zeĺvienski",
+        "code": "ZĹV"
+    },
+    {
+        "x": "5",
+        "y": "8",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Iŭjeŭski",
+        "code": "IŬJ"
+    },
+    {
+        "x": "5",
+        "y": "10",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Karelicki",
+        "code": "KRL"
+    },
+    {
+        "x": "4",
+        "y": "9",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Lidzki",
+        "code": "LID"
+    },
+    {
+        "x": "3",
+        "y": "10",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Mastoŭski",
+        "code": "MST"
+    },
+    {
+        "x": "5",
+        "y": "9",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Navahradzki",
+        "code": "NVH"
+    },
+    {
+        "x": "2",
+        "y": "11",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Śvisłacki",
+        "code": "ŚVS"
+    },
+    {
+        "x": "4",
+        "y": "12",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Słonimski",
+        "code": "SŁN"
+    },
+    {
+        "x": "6",
+        "y": "7",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Smarhonski",
+        "code": "SMR"
+    },
+    {
+        "x": "3",
+        "y": "9",
+        "type": "district",
+        "region": "Haradzienskaja",
+        "name": "Ščučynski",
+        "code": "ŠČČ"
+    },
+    {
+        "x": "10",
+        "y": "10",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Asipavicki",
+        "code": "ASP"
+    },
+    {
+        "x": "11",
+        "y": "11",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Babrujski",
+        "code": "BBR"
+    },
+    {
+        "x": "12",
+        "y": "10",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Bychaŭski",
+        "code": "BCH"
+    },
+    {
+        "x": "11",
+        "y": "9",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Białynicki",
+        "code": "BŁN"
+    },
+    {
+        "x": "10",
+        "y": "11",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Hluski",
+        "code": "HLS"
+    },
+    {
+        "x": "13",
+        "y": "8",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Horacki",
+        "code": "HRK"
+    },
+    {
+        "x": "13",
+        "y": "9",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Drybinski",
+        "code": "DRB"
+    },
+    {
+        "x": "15",
+        "y": "11",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Kaściukovicki",
+        "code": "KŚC"
+    },
+    {
+        "x": "11",
+        "y": "10",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Kačerycki",
+        "code": "KČR"
+    },
+    {
+        "x": "15",
+        "y": "9",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Klimavicki",
+        "code": "KLM"
+    },
+    {
+        "x": "10",
+        "y": "9",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Kličaŭski",
+        "code": "KLČ"
+    },
+    {
+        "x": "14",
+        "y": "11",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Krasnapolski",
+        "code": "KRS"
+    },
+    {
+        "x": "11",
+        "y": "8",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Kruhłjanski",
+        "code": "KRH"
+    },
+    {
+        "x": "14",
+        "y": "9",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Kryčaŭski",
+        "code": "KRČ"
+    },
+    {
+        "x": "12",
+        "y": "9",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Mahiloŭski",
+        "code": "MHL"
+    },
+    {
+        "x": "14",
+        "y": "8",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Amścisłaŭski",
+        "code": "AMŚ"
+    },
+    {
+        "x": "13",
+        "y": "11",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Prapojski",
+        "code": "PRP"
+    },
+    {
+        "x": "15",
+        "y": "10",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Chocimski",
+        "code": "CHC"
+    },
+    {
+        "x": "13",
+        "y": "10",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Čavuski",
+        "code": "ČVS"
+    },
+    {
+        "x": "14",
+        "y": "10",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Čerykaŭski",
+        "code": "ČRK"
+    },
+    {
+        "x": "12",
+        "y": "8",
+        "type": "district",
+        "region": "Mahiloŭskaja",
+        "name": "Škłoŭski",
+        "code": "ŠKŁ"
+    },
+    {
+        "x": "9",
+        "y": "7",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Barysaŭski",
+        "code": "BAR"
+    },
+    {
+        "x": "10",
+        "y": "8",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Biarezinski",
+        "code": "BRZ"
+    },
+    {
+        "x": "6",
+        "y": "8",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Vałožynski",
+        "code": "VŁŽ"
+    },
+    {
+        "x": "7",
+        "y": "6",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Vialejski",
+        "code": "VLK"
+    },
+    {
+        "x": "7",
+        "y": "8",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Kojdanaŭski",
+        "code": "KDN"
+    },
+    {
+        "x": "7",
+        "y": "10",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Kapylski",
+        "code": "KPL"
+    },
+    {
+        "x": "7",
+        "y": "11",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Klecki",
+        "code": "KLC"
+    },
+    {
+        "x": "10",
+        "y": "7",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Krupski",
+        "code": "KRP"
+    },
+    {
+        "x": "8",
+        "y": "7",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Łahojski",
+        "code": "ŁHS"
+    },
+    {
+        "x": "9",
+        "y": "11",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Lubański",
+        "code": "LBŃ"
+    },
+    {
+        "x": "7",
+        "y": "7",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Maładečanski",
+        "code": "MŁD"
+    },
+    {
+        "x": "8",
+        "y": "8",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Mienski",
+        "code": "MNS"
+    },
+    {
+        "x": "6",
+        "y": "6",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Miadziełski",
+        "code": "MDZ"
+    },
+    {
+        "x": "6",
+        "y": "10",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Niaśviski",
+        "code": "NŚV"
+    },
+    {
+        "x": "8",
+        "y": "9",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Puchavicki",
+        "code": "PCH"
+    },
+    {
+        "x": "8",
+        "y": "11",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Salihorski",
+        "code": "SLH"
+    },
+    {
+        "x": "8",
+        "y": "10",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Słucki",
+        "code": "SŁC"
+    },
+    {
+        "x": "9",
+        "y": "8",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Smalavicki",
+        "code": "SML"
+    },
+    {
+        "x": "9",
+        "y": "10",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Staradaroski",
+        "code": "STD"
+    },
+    {
+        "x": "6",
+        "y": "9",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Staŭpecki",
+        "code": "STP"
+    },
+    {
+        "x": "7",
+        "y": "9",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Uzdzienski",
+        "code": "UZD"
+    },
+    {
+        "x": "9",
+        "y": "9",
+        "type": "district",
+        "region": "Mienskaja",
+        "name": "Ihumienski",
+        "code": "IHM"
+    },
+    {
+        "x": "1",
+        "y": "1",
+        "type": "city",
+        "region": "Haradzienskaja",
+        "name": "Horadnia",
+        "code": "mHOR"
+    },
+    {
+        "x": "4",
+        "y": "1",
+        "type": "city",
+        "region": "Viciebskaja",
+        "name": "Navapołacak",
+        "code": "mNVP"
+    },
+    {
+        "x": "5",
+        "y": "1",
+        "type": "city",
+        "region": "Viciebskaja",
+        "name": "Viciebsk",
+        "code": "mVCB"
+    },
+    {
+        "x": "2",
+        "y": "2",
+        "type": "city",
+        "region": "Bieraściejskaja",
+        "name": "Baranavičy",
+        "code": "mBRN"
+    },
+    {
+        "x": "3",
+        "y": "2",
+        "type": "city",
+        "region": "Miensk",
+        "name": "Miensk",
+        "code": "mMNS"
+    },
+    {
+        "x": "4",
+        "y": "2",
+        "type": "city",
+        "region": "Mienskaja",
+        "name": "Žodzin",
+        "code": "mŽDZ"
+    },
+    {
+        "x": "5",
+        "y": "2",
+        "type": "city",
+        "region": "Mahiloŭskaja",
+        "name": "Mahiloŭ",
+        "code": "mMHL"
+    },
+    {
+        "x": "1",
+        "y": "3",
+        "type": "city",
+        "region": "Bieraściejskaja",
+        "name": "Bieraście",
+        "code": "mBRŚ"
+    },
+    {
+        "x": "2",
+        "y": "3",
+        "type": "city",
+        "region": "Bieraściejskaja",
+        "name": "Pinsk",
+        "code": "mPNS"
+    },
+    {
+        "x": "4",
+        "y": "3",
+        "type": "city",
+        "region": "Mahiloŭskaja",
+        "name": "Babrujsk",
+        "code": "mBBR"
+    },
+    {
+        "x": "5",
+        "y": "3",
+        "type": "city",
+        "region": "Homielskaja",
+        "name": "Homiel",
+        "code": "mHML"
+    }
+]

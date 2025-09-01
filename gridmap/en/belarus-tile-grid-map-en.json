@@ -1,0 +1,1034 @@
+[
+    {
+        "x": "5",
+        "y": "11",
+        "type": "district",
+        "region": "Brest",
+        "name": "Baranavichy",
+        "code": "BRN"
+    },
+    {
+        "x": "2",
+        "y": "14",
+        "type": "district",
+        "region": "Brest",
+        "name": "Brest",
+        "code": "BRS"
+    },
+    {
+        "x": "4",
+        "y": "13",
+        "type": "district",
+        "region": "Brest",
+        "name": "Byaroza",
+        "code": "BYA"
+    },
+    {
+        "x": "6",
+        "y": "12",
+        "type": "district",
+        "region": "Brest",
+        "name": "Hantsavichy",
+        "code": "HNT"
+    },
+    {
+        "x": "4",
+        "y": "14",
+        "type": "district",
+        "region": "Brest",
+        "name": "Drahichyn",
+        "code": "DRH"
+    },
+    {
+        "x": "3",
+        "y": "13",
+        "type": "district",
+        "region": "Brest",
+        "name": "Zhabinka",
+        "code": "ZHB"
+    },
+    {
+        "x": "5",
+        "y": "13",
+        "type": "district",
+        "region": "Brest",
+        "name": "Ivanava",
+        "code": "IVN"
+    },
+    {
+        "x": "5",
+        "y": "12",
+        "type": "district",
+        "region": "Brest",
+        "name": "Ivatsevichy",
+        "code": "IVT"
+    },
+    {
+        "x": "2",
+        "y": "13",
+        "type": "district",
+        "region": "Brest",
+        "name": "Kamyanyets",
+        "code": "KMN"
+    },
+    {
+        "x": "3",
+        "y": "14",
+        "type": "district",
+        "region": "Brest",
+        "name": "Kobryn",
+        "code": "KBR"
+    },
+    {
+        "x": "7",
+        "y": "12",
+        "type": "district",
+        "region": "Brest",
+        "name": "Luninyets",
+        "code": "LNN"
+    },
+    {
+        "x": "6",
+        "y": "11",
+        "type": "district",
+        "region": "Brest",
+        "name": "Lyakhavichy",
+        "code": "LKH"
+    },
+    {
+        "x": "2",
+        "y": "15",
+        "type": "district",
+        "region": "Brest",
+        "name": "Malaryta",
+        "code": "MLR"
+    },
+    {
+        "x": "6",
+        "y": "13",
+        "type": "district",
+        "region": "Brest",
+        "name": "Pinsk",
+        "code": "PNS"
+    },
+    {
+        "x": "3",
+        "y": "12",
+        "type": "district",
+        "region": "Brest",
+        "name": "Pruzhany",
+        "code": "PRZ"
+    },
+    {
+        "x": "7",
+        "y": "13",
+        "type": "district",
+        "region": "Brest",
+        "name": "Stolin",
+        "code": "STL"
+    },
+    {
+        "x": "12",
+        "y": "7",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Orsha",
+        "code": "ORS"
+    },
+    {
+        "x": "10",
+        "y": "5",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Byeshankovichy",
+        "code": "BSH"
+    },
+    {
+        "x": "7",
+        "y": "4",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Braslaw",
+        "code": "BRA"
+    },
+    {
+        "x": "8",
+        "y": "3",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Vyerkhnyadzvinsk",
+        "code": "VDV"
+    },
+    {
+        "x": "11",
+        "y": "5",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Vitsebsk",
+        "code": "VTS"
+    },
+    {
+        "x": "11",
+        "y": "4",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Haradok",
+        "code": "HRD"
+    },
+    {
+        "x": "8",
+        "y": "5",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Hlybokaye",
+        "code": "HLB"
+    },
+    {
+        "x": "8",
+        "y": "6",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Dokshytsy",
+        "code": "DKS"
+    },
+    {
+        "x": "13",
+        "y": "7",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Dubrowna",
+        "code": "DUB"
+    },
+    {
+        "x": "12",
+        "y": "6",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Lyozna",
+        "code": "LZN"
+    },
+    {
+        "x": "9",
+        "y": "6",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Lyepyel",
+        "code": "LPL"
+    },
+    {
+        "x": "8",
+        "y": "4",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Myory",
+        "code": "MYO"
+    },
+    {
+        "x": "6",
+        "y": "5",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Pastavy",
+        "code": "PST"
+    },
+    {
+        "x": "9",
+        "y": "4",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Polatsk",
+        "code": "PLT"
+    },
+    {
+        "x": "9",
+        "y": "3",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Rasony",
+        "code": "RSN"
+    },
+    {
+        "x": "11",
+        "y": "6",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Syanno",
+        "code": "SNN"
+    },
+    {
+        "x": "11",
+        "y": "7",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Talachyn",
+        "code": "TLC"
+    },
+    {
+        "x": "9",
+        "y": "5",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Ushachy",
+        "code": "USH"
+    },
+    {
+        "x": "10",
+        "y": "6",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Chashniki",
+        "code": "CHS"
+    },
+    {
+        "x": "7",
+        "y": "5",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Sharkawshchyna",
+        "code": "SHR"
+    },
+    {
+        "x": "10",
+        "y": "4",
+        "type": "district",
+        "region": "Vitsebsk",
+        "name": "Shumilina",
+        "code": "SHM"
+    },
+    {
+        "x": "9",
+        "y": "12",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Aktsyabrski",
+        "code": "AKT"
+    },
+    {
+        "x": "11",
+        "y": "15",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Brahin",
+        "code": "BRH"
+    },
+    {
+        "x": "12",
+        "y": "13",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Buda-Kashalyova",
+        "code": "BDK"
+    },
+    {
+        "x": "13",
+        "y": "13",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Vyetka",
+        "code": "VTK"
+    },
+    {
+        "x": "12",
+        "y": "14",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Homyel",
+        "code": "HML"
+    },
+    {
+        "x": "13",
+        "y": "14",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Dobrush",
+        "code": "DBR"
+    },
+    {
+        "x": "9",
+        "y": "15",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Yelʹsk",
+        "code": "YEL"
+    },
+    {
+        "x": "11",
+        "y": "12",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Zhlobin",
+        "code": "ZHL"
+    },
+    {
+        "x": "8",
+        "y": "12",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Zhytkavichy",
+        "code": "ZHT"
+    },
+    {
+        "x": "10",
+        "y": "13",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Kalinkavichy",
+        "code": "KLN"
+    },
+    {
+        "x": "12",
+        "y": "12",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Karma",
+        "code": "KRM"
+    },
+    {
+        "x": "8",
+        "y": "13",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Lyelchytsy",
+        "code": "LLC"
+    },
+    {
+        "x": "11",
+        "y": "14",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Loyew",
+        "code": "LOY"
+    },
+    {
+        "x": "9",
+        "y": "14",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Mazyr",
+        "code": "MZR"
+    },
+    {
+        "x": "10",
+        "y": "15",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Narowlya",
+        "code": "NRL"
+    },
+    {
+        "x": "9",
+        "y": "13",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Pyetrykaw",
+        "code": "PTR"
+    },
+    {
+        "x": "12",
+        "y": "11",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Rahachow",
+        "code": "RHC"
+    },
+    {
+        "x": "11",
+        "y": "13",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Rechytsa",
+        "code": "RCH"
+    },
+    {
+        "x": "10",
+        "y": "12",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Svyetlahorsk",
+        "code": "SVH"
+    },
+    {
+        "x": "10",
+        "y": "14",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Khoyniki",
+        "code": "KHN"
+    },
+    {
+        "x": "13",
+        "y": "12",
+        "type": "district",
+        "region": "Homyel",
+        "name": "Chachersk",
+        "code": "CHC"
+    },
+    {
+        "x": "5",
+        "y": "6",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Astravyets",
+        "code": "AST"
+    },
+    {
+        "x": "5",
+        "y": "7",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Ashmyany",
+        "code": "ASH"
+    },
+    {
+        "x": "2",
+        "y": "10",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Byerastavitsa",
+        "code": "BYE"
+    },
+    {
+        "x": "3",
+        "y": "11",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Vawkavysk",
+        "code": "VKV"
+    },
+    {
+        "x": "4",
+        "y": "8",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Voranava",
+        "code": "VRN"
+    },
+    {
+        "x": "2",
+        "y": "9",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Hrodna",
+        "code": "HRO"
+    },
+    {
+        "x": "4",
+        "y": "10",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Dzyatlava",
+        "code": "DZT"
+    },
+    {
+        "x": "4",
+        "y": "11",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Zelva",
+        "code": "ZLV"
+    },
+    {
+        "x": "5",
+        "y": "8",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Iwye",
+        "code": "IWY"
+    },
+    {
+        "x": "5",
+        "y": "10",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Karelichy",
+        "code": "KRL"
+    },
+    {
+        "x": "4",
+        "y": "9",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Lida",
+        "code": "LID"
+    },
+    {
+        "x": "3",
+        "y": "10",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Masty",
+        "code": "MST"
+    },
+    {
+        "x": "5",
+        "y": "9",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Navahrudak",
+        "code": "NVH"
+    },
+    {
+        "x": "2",
+        "y": "11",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Svislach",
+        "code": "SVS"
+    },
+    {
+        "x": "4",
+        "y": "12",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Slonim",
+        "code": "SLN"
+    },
+    {
+        "x": "6",
+        "y": "7",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Smarhon",
+        "code": "SMR"
+    },
+    {
+        "x": "3",
+        "y": "9",
+        "type": "district",
+        "region": "Hrodna",
+        "name": "Shchuchyn",
+        "code": "SCU"
+    },
+    {
+        "x": "10",
+        "y": "10",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Asipovichy",
+        "code": "ASP"
+    },
+    {
+        "x": "11",
+        "y": "11",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Babruysk",
+        "code": "BBR"
+    },
+    {
+        "x": "12",
+        "y": "10",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Bykhaw",
+        "code": "BKH"
+    },
+    {
+        "x": "11",
+        "y": "9",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Byalynichy",
+        "code": "BLN"
+    },
+    {
+        "x": "10",
+        "y": "11",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Hlusk",
+        "code": "HLS"
+    },
+    {
+        "x": "13",
+        "y": "8",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Horki",
+        "code": "HRK"
+    },
+    {
+        "x": "13",
+        "y": "9",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Drybin",
+        "code": "DRB"
+    },
+    {
+        "x": "15",
+        "y": "11",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Kastsyukovichy",
+        "code": "KST"
+    },
+    {
+        "x": "11",
+        "y": "10",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Kirawsk",
+        "code": "KRW"
+    },
+    {
+        "x": "15",
+        "y": "9",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Klimavichy",
+        "code": "KLM"
+    },
+    {
+        "x": "10",
+        "y": "9",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Klichaw",
+        "code": "KLC"
+    },
+    {
+        "x": "14",
+        "y": "11",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Krasnapollye",
+        "code": "KRS"
+    },
+    {
+        "x": "11",
+        "y": "8",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Kruhlaye",
+        "code": "KRH"
+    },
+    {
+        "x": "14",
+        "y": "9",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Krychaw",
+        "code": "KRY"
+    },
+    {
+        "x": "12",
+        "y": "9",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Mahilyow",
+        "code": "MHL"
+    },
+    {
+        "x": "14",
+        "y": "8",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Mstsislaw",
+        "code": "MSS"
+    },
+    {
+        "x": "13",
+        "y": "11",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Slawharad",
+        "code": "SLA"
+    },
+    {
+        "x": "15",
+        "y": "10",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Khotsimsk",
+        "code": "KHT"
+    },
+    {
+        "x": "13",
+        "y": "10",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Chavusy",
+        "code": "CHV"
+    },
+    {
+        "x": "14",
+        "y": "10",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Cherykaw",
+        "code": "CHR"
+    },
+    {
+        "x": "12",
+        "y": "8",
+        "type": "district",
+        "region": "Mahilyow",
+        "name": "Shklow",
+        "code": "SKL"
+    },
+    {
+        "x": "9",
+        "y": "7",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Barysaw",
+        "code": "BAR"
+    },
+    {
+        "x": "10",
+        "y": "8",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Byerazino",
+        "code": "BRZ"
+    },
+    {
+        "x": "6",
+        "y": "8",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Valozhyn",
+        "code": "VLZ"
+    },
+    {
+        "x": "7",
+        "y": "6",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Vilyeyka",
+        "code": "VLK"
+    },
+    {
+        "x": "7",
+        "y": "8",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Dzyarzhynsk",
+        "code": "DZR"
+    },
+    {
+        "x": "7",
+        "y": "10",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Kapyl",
+        "code": "KPL"
+    },
+    {
+        "x": "7",
+        "y": "11",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Kletsk",
+        "code": "KLT"
+    },
+    {
+        "x": "10",
+        "y": "7",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Krupki",
+        "code": "KRP"
+    },
+    {
+        "x": "8",
+        "y": "7",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Lahoysk",
+        "code": "LHS"
+    },
+    {
+        "x": "9",
+        "y": "11",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Lyuban",
+        "code": "LBN"
+    },
+    {
+        "x": "7",
+        "y": "7",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Maladzyechna",
+        "code": "MLD"
+    },
+    {
+        "x": "8",
+        "y": "8",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Minsk",
+        "code": "MNS"
+    },
+    {
+        "x": "6",
+        "y": "6",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Myadzyel",
+        "code": "MDZ"
+    },
+    {
+        "x": "6",
+        "y": "10",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Nyasvizh",
+        "code": "NSV"
+    },
+    {
+        "x": "8",
+        "y": "9",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Pukhavichy",
+        "code": "PKH"
+    },
+    {
+        "x": "8",
+        "y": "11",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Salihorsk",
+        "code": "SLH"
+    },
+    {
+        "x": "8",
+        "y": "10",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Slutsk",
+        "code": "SLT"
+    },
+    {
+        "x": "9",
+        "y": "8",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Smalyavichy",
+        "code": "SML"
+    },
+    {
+        "x": "9",
+        "y": "10",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Staryya Darohi",
+        "code": "STD"
+    },
+    {
+        "x": "6",
+        "y": "9",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Stowbtsy",
+        "code": "STB"
+    },
+    {
+        "x": "7",
+        "y": "9",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Uzda",
+        "code": "UZD"
+    },
+    {
+        "x": "9",
+        "y": "9",
+        "type": "district",
+        "region": "Minsk",
+        "name": "Chervyen",
+        "code": "CRV"
+    },
+    {
+        "x": "1",
+        "y": "1",
+        "type": "city",
+        "region": "Hrodna",
+        "name": "Hrodna",
+        "code": "cHRO"
+    },
+    {
+        "x": "4",
+        "y": "1",
+        "type": "city",
+        "region": "Vitsebsk",
+        "name": "Navapolatsk",
+        "code": "cNVP"
+    },
+    {
+        "x": "5",
+        "y": "1",
+        "type": "city",
+        "region": "Vitsebsk",
+        "name": "Vitsebsk",
+        "code": "cVTS"
+    },
+    {
+        "x": "2",
+        "y": "2",
+        "type": "city",
+        "region": "Brest",
+        "name": "Baranavichy",
+        "code": "cBRN"
+    },
+    {
+        "x": "3",
+        "y": "2",
+        "type": "city",
+        "region": "Minsk",
+        "name": "Minsk",
+        "code": "cMNS"
+    },
+    {
+        "x": "4",
+        "y": "2",
+        "type": "city",
+        "region": "Minsk",
+        "name": "Zhodzina",
+        "code": "cZHD"
+    },
+    {
+        "x": "5",
+        "y": "2",
+        "type": "city",
+        "region": "Mahilyow",
+        "name": "Mahilyow",
+        "code": "cMHL"
+    },
+    {
+        "x": "1",
+        "y": "3",
+        "type": "city",
+        "region": "Brest",
+        "name": "Brest",
+        "code": "cBRS"
+    },
+    {
+        "x": "2",
+        "y": "3",
+        "type": "city",
+        "region": "Brest",
+        "name": "Pinsk",
+        "code": "cPNS"
+    },
+    {
+        "x": "4",
+        "y": "3",
+        "type": "city",
+        "region": "Mahilyow",
+        "name": "Babruysk",
+        "code": "cBBR"
+    },
+    {
+        "x": "5",
+        "y": "3",
+        "type": "city",
+        "region": "Homyel",
+        "name": "Homyel",
+        "code": "cHML"
+    }
+]
